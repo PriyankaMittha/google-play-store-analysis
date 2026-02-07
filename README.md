@@ -38,9 +38,6 @@ The goal is to derive **data-driven insights** that can help developers and busi
 
 ---
 
-
----
-
 ## 📊 Dataset
 
 **Dataset:** Google Play Store Apps  
